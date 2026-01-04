@@ -9,7 +9,7 @@
 
 1. **Clone repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/chrislorando/ai-chatbot-app.git
    cd ai-chatbot-app
    ```
 
@@ -35,3 +35,10 @@
    ```bash
    php artisan serve
    ```
+
+## Links
+
+- [Livewire WireStream Documentation](https://livewire.laravel.com/docs/3.x/wire-stream)
+- [OpenAI PHP Laravel](https://github.com/openai-php/laravel)
+- [SumoPod](https://sumopod.com/register?ref=b9120f87-b648-40ef-b5b4-ec62bcfe72e0)
+- [GitHub Repository](https://github.com/chrislorando/ai-chatbot-app)
