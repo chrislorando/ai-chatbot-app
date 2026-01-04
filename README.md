@@ -17,6 +17,7 @@
    ```bash
    composer install
    npm install
+   npm run dev / npm run build
    ```
 
 3. **Konfigurasi environment**
@@ -42,4 +43,5 @@
 - [OpenAI PHP Laravel](https://github.com/openai-php/laravel)
 - [SumoPod](https://sumopod.com/register?ref=b9120f87-b648-40ef-b5b4-ec62bcfe72e0)
 - [GitHub Repository](https://github.com/chrislorando/ai-chatbot-app)
+- [Article](https://medium.com/@twinklescode/bikin-fitur-chat-streamed-response-ala-chatgpt-di-laravel-livewire-3-7967af9979cd)
 - [Demo](http://chatbot.demolink.my.id/)
