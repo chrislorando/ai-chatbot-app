@@ -42,3 +42,4 @@
 - [OpenAI PHP Laravel](https://github.com/openai-php/laravel)
 - [SumoPod](https://sumopod.com/register?ref=b9120f87-b648-40ef-b5b4-ec62bcfe72e0)
 - [GitHub Repository](https://github.com/chrislorando/ai-chatbot-app)
+- [Demo](http://chatbot.demolink.my.id/)
